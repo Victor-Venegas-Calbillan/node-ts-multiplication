@@ -16,7 +16,7 @@ this proyect has created with nodejs and clean architecture.
 
 > [!NOTE]
 > flags that you can use when executing the app, if you don't specify them, the app will use the default values
-> and if you want to use these flags toy must run **npx ts-node .\src\app.ts'**
+> and if you want to use these flags toy must run **npx ts-node .\src\app.ts**
 
 ## flags
 
